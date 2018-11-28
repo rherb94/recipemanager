@@ -1,6 +1,6 @@
 # UMUC Semester Project: Recipe Manager 
 
-Here contains the Spring Boot webapp code for Recipe Manager
+Here contains the Spring Boot webapp code for Recipe Manager. 
 After setting up your environment, simply execute:  
 `mvn clean package`  to package the application and generate the executable JAR. 
 Then, cd to /target directory and execute:  
