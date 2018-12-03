@@ -58,6 +58,23 @@ public class RecipeRepositoryBoot implements ApplicationListener<ContextRefreshe
         r.setInstructions("bla bla bla");
         r.setNotes("notes go here");
         recipeRepository.save(r);
+<<<<<<< HEAD
 
+=======
+        
+        r = new Recipe();
+        r.setContributorName("Tia");
+        r.setTitle("Rose Water");
+        r.setInstructions("Make hot water. Place rose petals in water.");
+        r.setNotes("Classy!");
+        recipeRepository.save(r);
+        
+        r = new Recipe();
+        r.setContributorName("N. H.");
+        r.setTitle("Butterscotch Cinnamon Pie");
+        r.setInstructions("Smash a Butterscoth pie with a Cinnamon pie");
+        r.setNotes("Made with love");
+        recipeRepository.save(r);
+>>>>>>> 1e05c578531d936c7d84aefba292274f41616690
     }
 }
