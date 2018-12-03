@@ -6,5 +6,5 @@ After setting up your environment, simply execute:
 Then, cd to /target directory and execute:  
 `java - jar recipemanager-0.0.1-RELEASE.jar` to run Recipe Manager on localhost. 
 
-The web page will be accessible on localhost:8080/recipes
+The web page will be accessible on localhost:8080
 
