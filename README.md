@@ -8,3 +8,5 @@ Then, cd to /target directory and execute:
 
 The web page will be accessible on localhost:8080
 
+Link to Kubernetes-Manifests on GitHub: https://github.com/rherb94/kubernetes-manifests
+
