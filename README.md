@@ -6,7 +6,7 @@ After setting up your environment, simply execute:
 Then, cd to /target directory and execute:  
 `java - jar recipemanager-0.0.1-RELEASE.jar` to run Recipe Manager on localhost. 
 
-The web page will be accessible on localhost:8080
+The web page will be accessible on <http://35.238.236.116/>
 
 Link to Kubernetes-Manifests on GitHub: https://github.com/rherb94/kubernetes-manifests
 
