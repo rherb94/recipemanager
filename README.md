@@ -14,6 +14,8 @@ Then, cd to /target directory and execute:
 
 Link to Kubernetes-Manifests on GitHub: https://github.com/rherb94/kubernetes-manifests
 
+Project Report PDF: [Recipe-ManagerReport](/Recipe-ManagerReport.pdf?raw-true)
+
 ![Recipe-Manager](/src/main/resources/static/images/Recipe-Manager.png?raw=true "Recipe-Manager")
 
 
